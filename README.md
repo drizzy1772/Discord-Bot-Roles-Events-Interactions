@@ -22,3 +22,13 @@ Select Menus (discord.ui.Select)
 🔐 Permission checks (admin-only commands)
 
 🧩 Clean role–emoji mapping system
+
+•✅ Tech Stack
+
+Python
+
+discord.py 2.x
+
+Slash Commands (app_commands)
+
+Discord Intents & Gateway Events
