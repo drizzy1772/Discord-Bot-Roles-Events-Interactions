@@ -1,30 +1,24 @@
 # Discord-Bot-Roles-Events-Interactions
 Custom Discord bot built with discord.py that includes slash commands, reaction-based roles, event handling, embeds, buttons, select menus, and permission checks.
 
-Reaction Roles — users can get or remove roles by reacting to a message
+✨ Features
 
-/ Slash Commands (/hello, /printer, /embed, etc.)
+🎭 Reaction Roles — users can get or remove roles by reacting to a message
 
-/ Guild-specific command syncing
+⚡ Slash Commands (/hello, /printer, /embed, etc.)
 
-/ Discord Events
+📌 Guild-specific command syncing
 
-/ on_ready
+🧠 Discord Events
 
-/ on_message
+• UI Components
 
-/ on_reaction_add
+Buttons (discord.ui.Button)
 
-/ on_reaction_remove
+Select Menus (discord.ui.Select)
 
-/ UI Components
+📦 Embeds with thumbnails, fields, footer, and author
 
-/ Buttons (discord.ui.Button)
-
-/ Select Menus (discord.ui.Select)
-
-/ Embeds with thumbnails, fields, footer, and author
-
-/ Permission checks (admin-only commands)
+🔐 Permission checks (admin-only commands)
 
 🧩 Clean role–emoji mapping system
